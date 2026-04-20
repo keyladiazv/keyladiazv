@@ -9,7 +9,7 @@ Actualmente enfocada en análisis de datos, visualización, procesos ETL y creci
 
 ---
 
-## 🚀 Sobre mí
+## Sobre mí
 
 🔹 Analista de datos con enfoque en soluciones reales y orientadas al negocio.  
 🔹 Experiencia trabajando con Python, SQL y automatización de procesos.  
