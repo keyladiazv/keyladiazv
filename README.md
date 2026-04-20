@@ -69,8 +69,8 @@ Documentación práctica de laboratorios de ciberseguridad y pentesting ético.
 ## 🌍 Conecta conmigo
 
 <p>
-<a href="https://www.linkedin.com/in/TU-LINKEDIN/">LinkedIn</a> •
-<a href="mailto:TUEMAIL@email.com">Email</a>
+<a href="www.linkedin.com/in/keyladiazv">LinkedIn</a> •
+<a href="keyladiazv2712@gmail.com">Email</a>
 </p>
 
 ---
