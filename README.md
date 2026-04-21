@@ -20,7 +20,7 @@ Actualmente enfocada en análisis de datos, IA aplicada al desarrollo, automatiz
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## Tecnologías y herramientas
 
 ### 📊 Data Analytics
 <p>
@@ -49,7 +49,7 @@ Linux • Networking • Ethical Hacking • Cybersecurity
 
 ---
 
-## 🧠 Explorando en 2026
+## Explorando en 2026
 
 🔹 AI-first Development Environments  
 🔹 Coding Agents con ciclos autónomos: Plan → Execute → Verify → Improve  
@@ -78,7 +78,7 @@ Investigación y aplicación de agentes IA para acelerar desarrollo de software.
 
 ---
 
-## 📚 Actualmente enfocado en
+## 📚 Actualmente enfocada en
 
 ✔️ Python avanzado para datos  
 ✔️ SQL profesional  
