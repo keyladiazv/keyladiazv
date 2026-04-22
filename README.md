@@ -9,7 +9,7 @@ Actualmente enfocada en análisis de datos, IA aplicada al desarrollo, automatiz
 
 ---
 
-## 🚀 Sobre mí
+## Sobre mí
 
 🔹 Analista de datos con enfoque en soluciones reales orientadas al negocio.  
 🔹 Experiencia trabajando con Python, SQL y automatización de procesos.  
@@ -26,7 +26,7 @@ Actualmente enfocada en análisis de datos, IA aplicada al desarrollo, automatiz
 
 <p align="justify">
 <img src="https://skillicons.dev/icons?i=python,mysql,sqlite" /><br><br>
-Python | MySQL |SQLite | Pandas| NumPy
+Python | MySQL | SQLite | Pandas| NumPy
 </p>
 
 ---
