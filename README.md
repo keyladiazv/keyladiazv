@@ -24,7 +24,7 @@ Actualmente enfocada en análisis de datos, IA aplicada al desarrollo, automatiz
 
 ### 📊 Data Analytics & Programación
 
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=python,mysql,sqlite" /><br><br>
 
 🐍 Python &nbsp;&nbsp;|&nbsp;&nbsp;
@@ -32,7 +32,7 @@ Actualmente enfocada en análisis de datos, IA aplicada al desarrollo, automatiz
 🗄️ SQLite
 </p>
 
-<p align="center">
+<p align="justify">
 🔹 Pandas &nbsp;&nbsp;|&nbsp;&nbsp;
 🔹 NumPy
 </p>
