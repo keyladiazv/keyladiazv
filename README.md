@@ -3,13 +3,13 @@
 <h3 align="center">Data Analyst | ETL | Data Visualization | Python & SQL</h3>
 
 <p align="center">
-Apasionada por los datos, la automatización y la resolución de problemas mediante tecnología.  
+Apasionada por los datos, la automatización y la resolución de problemas mediante tecnología.<br>
 Actualmente enfocada en análisis de datos, IA aplicada al desarrollo, automatización y crecimiento constante en ciberseguridad.
 </p>
 
 ---
 
-## Sobre mí
+## 🚀 Sobre mí
 
 🔹 Analista de datos con enfoque en soluciones reales orientadas al negocio.  
 🔹 Experiencia trabajando con Python, SQL y automatización de procesos.  
@@ -20,39 +20,77 @@ Actualmente enfocada en análisis de datos, IA aplicada al desarrollo, automatiz
 
 ---
 
-## Tecnologías y herramientas
+## 🛠️ Tecnologías y Herramientas
 
-### 📊 Data Analytics
-<p>
-<img src="https://skillicons.dev/icons?i=python,mysql,sqlite" />
+### 📊 Data Analytics & Programación
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,mysql,sqlite" /><br><br>
+
+🐍 Python &nbsp;&nbsp;|&nbsp;&nbsp;
+🛢️ MySQL &nbsp;&nbsp;|&nbsp;&nbsp;
+🗄️ SQLite
 </p>
 
-### 📈 Visualización
-<p>
-Power BI • Looker Studio • Matplotlib • Seaborn
-</p>
-
-### ⚙️ Desarrollo & Automatización
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,bash" />
-</p>
-
-### 🤖 IA aplicada al desarrollo
-<p>
-GitHub Copilot • VS Code AI Tools • AI Coding Agents • Prompt Engineering
-</p>
-
-### 🔐 Actualmente aprendiendo
-<p>
-Linux • Networking • Ethical Hacking • Cybersecurity
+<p align="center">
+🔹 Pandas &nbsp;&nbsp;|&nbsp;&nbsp;
+🔹 NumPy
 </p>
 
 ---
 
-## Explorando en 2026
+### 📈 Visualización de Datos
+
+<p align="center">
+📊 Power BI &nbsp;&nbsp;|&nbsp;&nbsp;
+📉 Looker Studio &nbsp;&nbsp;|&nbsp;&nbsp;
+📈 Matplotlib &nbsp;&nbsp;|&nbsp;&nbsp;
+🌊 Seaborn
+</p>
+
+---
+
+### ⚙️ Desarrollo & Automatización
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,bash" /><br><br>
+
+🌱 Git &nbsp;&nbsp;|&nbsp;&nbsp;
+🐙 GitHub &nbsp;&nbsp;|&nbsp;&nbsp;
+💻 VS Code &nbsp;&nbsp;|&nbsp;&nbsp;
+📜 Bash
+</p>
+
+---
+
+### 🔐 Cybersecurity & Sistemas
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,kali" /><br><br>
+
+🐧 Linux &nbsp;&nbsp;|&nbsp;&nbsp;
+🛡️ Kali Linux &nbsp;&nbsp;|&nbsp;&nbsp;
+🌐 Networking &nbsp;&nbsp;|&nbsp;&nbsp;
+🔐 Ethical Hacking
+</p>
+
+---
+
+### 🤖 IA aplicada al desarrollo
+
+<p align="center">
+🧠 GitHub Copilot &nbsp;&nbsp;|&nbsp;&nbsp;
+⚡ AI Coding Agents &nbsp;&nbsp;|&nbsp;&nbsp;
+🛠️ Prompt Engineering &nbsp;&nbsp;|&nbsp;&nbsp;
+🚀 AI-first Development
+</p>
+
+---
+
+## 🔭 Explorando en 2026
 
 🔹 AI-first Development Environments  
-🔹 Coding Agents con ciclos autónomos: Plan → Execute → Verify → Improve  
+🔹 Coding Agents con ciclos autónomos: **Plan → Execute → Verify → Improve**  
 🔹 Multi-file refactors asistidos por IA  
 🔹 AGENT.md / Reglas persistentes para proyectos  
 🔹 MCP (Model Context Protocol) y herramientas conectadas  
@@ -84,15 +122,15 @@ Investigación y aplicación de agentes IA para acelerar desarrollo de software.
 ✔️ SQL profesional  
 ✔️ Dashboards ejecutivos  
 ✔️ Ciberseguridad ofensiva y defensiva  
-✔️ AI-assisted development  
+✔️ AI-assisted development
 
 ---
 
 ## 🌍 Conecta conmigo
 
-<p>
+<p align="center">
 <a href="https://www.linkedin.com/in/keyladiazv">LinkedIn</a> •
-<a href="keyladiazv2712@gmail.com">Email</a>
+<a href="mailto:keyladiazv2712@gmail.com">Email</a>
 </p>
 
 ---
