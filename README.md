@@ -24,24 +24,16 @@ Actualmente enfocada en análisis de datos, IA aplicada al desarrollo, automatiz
 
 ### 📊 Data Analytics & Programación
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,mysql,sqlite" /><br><br>
-
-🐍 Python &nbsp;&nbsp;|&nbsp;&nbsp;
-🛢️ MySQL &nbsp;&nbsp;|&nbsp;&nbsp;
-🗄️ SQLite
-</p>
-
 <p align="justify">
-🔹 Pandas &nbsp;&nbsp;|&nbsp;&nbsp;
-🔹 NumPy
+<img src="https://skillicons.dev/icons?i=python,mysql,sqlite" /><br><br>
+Python | MySQL |SQLite | Pandas| NumPy
 </p>
 
 ---
 
 ### 📈 Visualización de Datos
 
-<p align="center">
+<p align="justify">
 📊 Power BI &nbsp;&nbsp;|&nbsp;&nbsp;
 📉 Looker Studio &nbsp;&nbsp;|&nbsp;&nbsp;
 📈 Matplotlib &nbsp;&nbsp;|&nbsp;&nbsp;
@@ -52,37 +44,28 @@ Actualmente enfocada en análisis de datos, IA aplicada al desarrollo, automatiz
 
 ### ⚙️ Desarrollo & Automatización
 
-<p align="center">
+<p align="justify">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,bash" /><br><br>
 
-🌱 Git &nbsp;&nbsp;|&nbsp;&nbsp;
-🐙 GitHub &nbsp;&nbsp;|&nbsp;&nbsp;
-💻 VS Code &nbsp;&nbsp;|&nbsp;&nbsp;
-📜 Bash
+Git | GitHub | VS Code | Bash
 </p>
 
 ---
 
 ### 🔐 Cybersecurity & Sistemas
 
-<p align="center">
+<p align="justify">
 <img src="https://skillicons.dev/icons?i=linux,kali" /><br><br>
 
-🐧 Linux &nbsp;&nbsp;|&nbsp;&nbsp;
-🛡️ Kali Linux &nbsp;&nbsp;|&nbsp;&nbsp;
-🌐 Networking &nbsp;&nbsp;|&nbsp;&nbsp;
-🔐 Ethical Hacking
+Linux | Kali | Ethical Hacking
 </p>
 
 ---
 
 ### 🤖 IA aplicada al desarrollo
 
-<p align="center">
-🧠 GitHub Copilot &nbsp;&nbsp;|&nbsp;&nbsp;
-⚡ AI Coding Agents &nbsp;&nbsp;|&nbsp;&nbsp;
-🛠️ Prompt Engineering &nbsp;&nbsp;|&nbsp;&nbsp;
-🚀 AI-first Development
+<p align="justify">
+GitHub Copilot | AI Coding Agents | Prompt Engineering | AI-first Development
 </p>
 
 ---
@@ -128,7 +111,7 @@ Investigación y aplicación de agentes IA para acelerar desarrollo de software.
 
 ## 🌍 Conecta conmigo
 
-<p align="center">
+<p align="justify">
 <a href="https://www.linkedin.com/in/keyladiazv">LinkedIn</a> •
 <a href="mailto:keyladiazv2712@gmail.com">Email</a>
 </p>
