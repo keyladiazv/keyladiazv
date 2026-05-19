@@ -1,146 +1,131 @@
-<h1 align="center">Hola, soy Keyla Díaz 👋</h1>
+# Hola, soy Keyla Díaz Villarreal 👋
 
-<h3 align="center">
-Data Analyst • AI Native Builder • Cybersecurity Transition
-</h3>
+### Data Analyst | Python | SQL | Power BI | Data Visualization
 
-<p align="center">
-Transformando datos en decisiones, automatizando procesos y construyendo soluciones modernas con IA.<br>
-Actualmente evolucionando hacia ciberseguridad ofensiva/defensiva y sistemas inteligentes de alto impacto.
-</p>
+Soy criminóloga especializada en análisis de datos, con experiencia en investigación, automatización, visualización y análisis de información orientada a la toma de decisiones.
 
-<p align="center">
-<a href="https://www.linkedin.com/in/keyladiazv">LinkedIn</a> •
-<a href="mailto:keyladiazv2712@gmail.com">Email</a> •
-<a href="https://github.com/keyladiazv">GitHub</a>
-</p>
+He trabajado en proyectos de análisis de datos sociales, operativos y comerciales, participando en procesos de extracción, limpieza, transformación y visualización de datos mediante Python, SQL y Power BI.
 
----
+Actualmente estoy enfocada en:
 
-## 🚀 Perfil Profesional
+- Data Analytics
+- Automatización y Python
+- Dashboards y KPIs
+- Inteligencia Artificial y LLMs
+- Trading Analytics
+- Geo-información y análisis territorial
 
-🔹 Analista de datos con enfoque estratégico orientado al negocio.  
-🔹 Experiencia en automatización, ETL, reporting ejecutivo y visualización.  
-🔹 Construcción de proyectos con Python, SQL e IA aplicada.  
-🔹 En transición sólida hacia Cybersecurity & Ethical Hacking.  
-🔹 Mentalidad de mejora continua, ejecución y aprendizaje acelerado.  
-🔹 Capacidad de combinar análisis, tecnología y resolución real de problemas.
+> “Transformando datos en decisiones estratégicas.”
 
 ---
 
-## 🧠 Especialidades
+# Tecnologías y herramientas
 
-✔️ Data Analytics  
-✔️ Business Intelligence  
-✔️ ETL Pipelines  
-✔️ Dashboards Ejecutivos  
-✔️ Python Automation  
-✔️ SQL Optimization  
-✔️ AI Assisted Development  
-✔️ Cybersecurity Labs & Pentesting Practice
+### Lenguajes y análisis de datos
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 🛠️ Tech Stack
+### Data Analytics & BI
 
-### 📊 Data & Analytics
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power Query](https://img.shields.io/badge/PowerQuery-742774?style=for-the-badge)
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,sqlite" /><br><br>
+### Librerías y herramientas
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge">
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge">
-</p>
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-0C55A5?style=for-the-badge)
 
----
+### Desarrollo y automatización
 
-### 📈 BI & Visualization
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-<img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white">
-<img src="https://img.shields.io/badge/Executive_Dashboards-111111?style=for-the-badge">
-
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash)
+![AI](https://img.shields.io/badge/LLMs_&_AI-412991?style=for-the-badge)
 
 ---
 
-### ⚙️ Development & Automation
+# Algunos proyectos
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,bash" /><br><br>
+## Sistema Predictivo de Trading
 
-<img src="https://img.shields.io/badge/Automation-0A0A0A?style=for-the-badge">
-<img src="https://img.shields.io/badge/Workflows-222222?style=for-the-badge">
-<img src="https://img.shields.io/badge/Scripting-333333?style=for-the-badge">
-</p>
+Desarrollo de un sistema analítico orientado al análisis de mercados financieros mediante:
 
----
+- Extracción y transformación automatizada de datos históricos
+- Detección de order blocks
+- Evaluación de volatilidad y volumen
+- Identificación de divergencias y zonas de sobrecompra/sobreventa
+- Automatización de análisis para toma de decisiones
 
-### 🤖 AI Native Development
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white">
-<img src="https://img.shields.io/badge/AI_Coding_Agents-111111?style=for-the-badge">
-<img src="https://img.shields.io/badge/Prompt_Engineering-222222?style=for-the-badge">
-<img src="https://img.shields.io/badge/AI_First_Workflows-333333?style=for-the-badge">
-
-</p>
+**Tecnologías:** Python · Pandas · NumPy · APIs · Visualización de datos
 
 ---
 
-### 🔐 Cybersecurity Journey
+## Automatización Cartográfica y Geo-análisis
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=linux,kali" /><br><br>
+Automatización de procesos cartográficos mediante scripts en Python para generación masiva de layouts PDF, reduciendo tiempos operativos en un 60%.
 
-<img src="https://img.shields.io/badge/Networking-00599C?style=for-the-badge">
-<img src="https://img.shields.io/badge/Pentesting-8B0000?style=for-the-badge">
-<img src="https://img.shields.io/badge/Ethical_Hacking-111111?style=for-the-badge">
-<img src="https://img.shields.io/badge/Linux_Systems-222222?style=for-the-badge">
-
-</p>
+**Tecnologías:** Python · GeoPandas · Automatización · PDF Processing
 
 ---
 
-## 📂 Featured Projects
+## Dashboards y KPIs Empresariales
 
-### 📌 E-commerce Data Analysis
-Business KPIs, cohort analysis, customer segmentation, insights and reporting.
+Diseño y desarrollo de dashboards interactivos para monitoreo de métricas estratégicas, análisis de ventas y generación de reportes ejecutivos.
 
-### 📌 ETL Automation Systems
-Automated extraction, transformation and loading pipelines.
-
-### 📌 Security Labs Journey
-Hands-on labs, vulnerability practice and ethical hacking learning path.
-
-### 📌 AI Development Systems
-Use of AI agents to accelerate software development workflows.
+**Tecnologías:** Power BI · SQL · Python · Excel
 
 ---
 
-## 📚 Focus 2026
+# Experiencia
 
-🔹 Advanced Python for production  
-🔹 Professional SQL & Data Modeling  
-🔹 Cybersecurity offensive/defensive foundations  
-🔹 AI-first engineering systems  
-🔹 Real-world portfolio with impact projects
+## Analista de Datos Freelance | 2025 - Actualidad
+
+- Desarrollo de sistemas predictivos de trading
+- Modelos analíticos para análisis financiero
+- Automatización y optimización de procesos analíticos
+
+## Analista de Datos Freelance | 2022 - 2024
+
+- Automatización cartográfica con Python
+- Dashboards comerciales y KPIs
+- Automatización de reportes empresariales
+- EDA y análisis de tendencias
+
+## Supervisora de Campo — UCAB | 2019 - 2021
+
+- Proyectos ENCOVI y Diagnóstico Educativo
+- Recolección de información con Survey Solutions
+- Liderazgo de equipos de campo
+
+## Analista de Datos — CORPIVENSA | 2019 - 2021
+
+- Análisis operativo y organizacional
+- Métricas de producción y ventas
+- Optimización de tiempos de respuesta
+
+## Analista de Datos — Vicepresidencia de Venezuela | 2018 - 2019
+
+- Análisis de datos sociales y territoriales
+- Dashboards de políticas públicas
+- Validación y transformación de información estratégica
 
 ---
 
-## 📊 Mindset
+# Formación
 
-<p align="center">
-Build fast • Learn deeply • Automate everything • Stay dangerous
-</p>
+Criminología — Universidad de Los Andes (ULA)
 
 ---
 
-<p align="center">
-⭐ Always building, learning and evolving.
-</p>
+# Encuéntrame en:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Keyla_Diaz-0A66C2?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/keyladiazv)
+[![Email](https://img.shields.io/badge/Email-Contactame-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keyladiazv2712@gmail.com)
+
+---
+
+⭐ Gracias por visitar mi perfil
