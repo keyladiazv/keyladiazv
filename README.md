@@ -123,7 +123,7 @@ Criminología — Universidad de Los Andes (ULA)
 
 # Encuéntrame en:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Keyla_Diaz-0A66C2?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/keyladiazv)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Keyla_Diaz-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
 [![Email](https://img.shields.io/badge/Email-Contactame-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keyladiazv2712@gmail.com)
 
 ---
