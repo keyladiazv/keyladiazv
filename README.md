@@ -82,7 +82,7 @@ Diseño y desarrollo de dashboards interactivos para monitoreo de métricas estr
 
 # Experiencia
 
-## Analista de Datos Freelance | 2025 - Actualidad
+## Analista de Datos Freelance | 2025 - 2026
 
 - Desarrollo de sistemas predictivos de trading
 - Modelos analíticos para análisis financiero
