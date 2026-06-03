@@ -36,15 +36,25 @@ Actualmente estoy enfocada en:
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-0C55A5?style=for-the-badge)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge)
 
-### Desarrollo y automatización
+### Automatización y Desarrollo 
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+### AI Engineering & Agents
+
 ![AI](https://img.shields.io/badge/LLMs_&_AI-412991?style=for-the-badge)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-AI_Agents-4A4A4A?style=for-the-badge)
+![Gentle_AI](https://img.shields.io/badge/Gentle--AI-Agent_Framework-7B61FF?style=for-the-badge)
+![Engram](https://img.shields.io/badge/Engram-Memory_System-00A86B?style=for-the-badge)
+
 
 ---
 
@@ -91,7 +101,7 @@ Diseño y desarrollo de dashboards interactivos para monitoreo de métricas estr
 ## Analista de Datos Freelance | 2022 - 2024
 
 - Automatización cartográfica con Python
-- Dashboards comerciales y KPIs
+- Diseño de dashboards ejecutivos para seguimiento de ventas, productividad y métricas operativas, reduciendo tiempos de análisis y mejorando la visibilidad de indicadores clave.
 - Automatización de reportes empresariales
 - EDA y análisis de tendencias
 
