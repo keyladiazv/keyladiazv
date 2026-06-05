@@ -1,9 +1,9 @@
-<p align="center">
-  # Hola, soy Keyla Díaz Villarreal 👋
+<p align="center", font-size=26>
+  Hola, soy Keyla Díaz Villarreal 👋
 </p>
 
-<p align="center">
-### Data Analyst | Python | SQL | Power BI | Data Visualization
+<p align="center", font-size=22>
+Data Analyst | Python | SQL | Power BI | Data Visualization
 </p>
 
 <p align="center">
