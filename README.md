@@ -14,12 +14,12 @@ Actualmente me enfoco en transformar datos en información estratégica mediante
 
 ### Áreas de interés
 
-* 📊 Data Analytics
-* 🐍 Automatización con Python
-* 📈 Dashboards y KPIs
-* 🤖 Inteligencia Artificial y LLMs
-* ₿ Trading Analytics
-* 🌎 GeoAnalytics
+* Data Analytics
+* Automatización con Python
+* Dashboards y KPIs
+* Inteligencia Artificial y LLMs
+* Trading Analytics
+* GeoAnalytics
 
 > *"Transformando datos en decisiones estratégicas."*
 
