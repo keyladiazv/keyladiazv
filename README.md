@@ -1,6 +1,10 @@
-# Hola, soy Keyla Díaz Villarreal 👋
+<p align="center">
+  # Hola, soy Keyla Díaz Villarreal 👋
+</p>
 
+<p align="center">
 ### Data Analyst | Python | SQL | Power BI | Data Visualization
+</p>
 
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1lSvNp-mramLrC9V1h5FMFU6Ir7JYDOYF" alt="Keyla Diaz Villarreal - Data Analyst" width="70%">
