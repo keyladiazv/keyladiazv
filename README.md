@@ -4,7 +4,7 @@
 
 Soy criminóloga especializada en análisis de datos, con experiencia en investigación, automatización, visualización y análisis de información orientada a la toma de decisiones.
 
-He participado en proyectos de análisis de datos sociales, operativos y comerciales, participando en procesos de extracción, limpieza, transformación y visualización de datos mediante Python, SQL y Power BI.
+Trabajé en proyectos de análisis de datos sociales, operativos y comerciales, participando en procesos de extracción, limpieza, transformación y visualización de datos mediante Python, SQL y Power BI.
 
 Actualmente estoy enfocada en:
 
