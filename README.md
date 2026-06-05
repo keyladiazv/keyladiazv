@@ -1,10 +1,8 @@
-<p align="center", font-size=26>
-  Hola, soy Keyla Díaz Villarreal 👋
-</p>
+<h1 align="center">Hola, soy Keyla Díaz Villarreal 👋</h1>
 
-<p align="center", font-size=22>
+<h3 align="center">
 Data Analyst | Python | SQL | Power BI | Data Visualization
-</p>
+</h3>
 
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1lSvNp-mramLrC9V1h5FMFU6Ir7JYDOYF" alt="Keyla Diaz Villarreal - Data Analyst" width="70%">
