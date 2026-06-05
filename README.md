@@ -3,7 +3,7 @@
 ### Data Analyst | Python | SQL | Power BI | Data Visualization
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1lSvNp-mramLrC9V1h5FMFU6Ir7JYDOYF" alt="Keyla Diaz Villarreal - Data Analyst" width="100%">
+  <img src="https://drive.google.com/uc?export=view&id=1lSvNp-mramLrC9V1h5FMFU6Ir7JYDOYF" alt="Keyla Diaz Villarreal - Data Analyst" width="70%">
 </p>
 
 Soy criminóloga especializada en análisis de datos, con experiencia en investigación, automatización, visualización y análisis de información orientada a la toma de decisiones.
