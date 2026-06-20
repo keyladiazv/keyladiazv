@@ -1,11 +1,11 @@
 <h1 align="center">Hola, soy Keyla Díaz Villarreal 👋</h1>
 
 <h3 align="center">
-Data Analyst | Python | SQL | Power BI | Data Visualization
+Data Analyst | Data Science | Machine Learning | Python | SQL | AI Engineering
 </h3>
 
-<p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1lSvNp-mramLrC9V1h5FMFU6Ir7JYDOYF" alt="Keyla Diaz Villarreal - Data Analyst" width="70%">
+<<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1yVJ3VbLvIHDJ-al7dKuNmCoOCBb61Yau" alt="Keyla Diaz Villarreal - Data Analyst & Data Scientist" width="70%">
 </p>
 
 Soy criminóloga especializada en análisis de datos, con experiencia en investigación, automatización, visualización y análisis de información orientada a la toma de decisiones.
@@ -44,7 +44,10 @@ Actualmente me enfoco en transformar datos en información estratégica mediante
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-0C55A5?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge)
+
+
 
 ### Automatización y Desarrollo
 
@@ -56,42 +59,63 @@ Actualmente me enfoco en transformar datos en información estratégica mediante
 ### AI Engineering & Agents
 
 ![AI](https://img.shields.io/badge/LLMs_&_AI-412991?style=for-the-badge)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge\&logo=githubcopilot\&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![OpenCode](https://img.shields.io/badge/OpenCode-AI_Agents-4A4A4A?style=for-the-badge)
 ![Gentle AI](https://img.shields.io/badge/Gentle--AI-Agent_Framework-7B61FF?style=for-the-badge)
 ![Engram](https://img.shields.io/badge/Engram-Memory_System-00A86B?style=for-the-badge)
+![Antigravity](https://img.shields.io/badge/Antigravity-AI%20Coding%20Agent-6C63FF?style=for-the-badge)
 
 ---
 
 # Algunos proyectos
 
-## 📈 Sistema Predictivo de Trading
+---
 
-Desarrollo de un sistema analítico orientado al análisis de mercados financieros mediante:
+## BigQuery Release Notes Tracker
 
-* Extracción y transformación automatizada de datos históricos
-* Detección de Order Blocks
-* Evaluación de volatilidad y volumen
-* Identificación de divergencias y zonas de sobrecompra/sobreventa
-* Automatización de análisis para toma de decisiones
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1mC41zqUv4pQ6HswFDhdZV1LWcFuvTLpM" alt="BigQuery Release Notes Tracker" width="90%">
+</p>
 
-**Tecnologías:** Python · Pandas · NumPy · APIs · Visualización de Datos
+Aplicación web desarrollada con **Python Flask** que permite monitorizar, buscar y filtrar las notas oficiales de versión de **Google Cloud BigQuery**, facilitando el seguimiento de nuevas funcionalidades, anuncios, incidencias y cambios importantes.
+
+La aplicación incorpora un sistema de caché inteligente, actualización manual en tiempo real, búsqueda instantánea, filtros dinámicos y una integración con **Twitter (X)** para compartir una o múltiples notas de versión mediante un compositor de publicaciones integrado.
+
+### Características principales
+
+- Obtención automática de notas desde el feed oficial de Google Cloud.
+- Caché inteligente para mejorar el rendimiento.
+- Separación individual de cada actualización publicada.
+- Búsqueda por texto y filtros por categoría.
+- Publicación individual o múltiple en Twitter (X).
+- Diseño moderno, responsivo y modo oscuro.
+
+**Tecnologías**
+
+Python · Flask · HTML5 · CSS3 · JavaScript ES6 · Requests · XML Parser · APIs
 
 ---
 
-## 🗺️ Automatización Cartográfica y Geo-análisis
+## Student Performance Prediction
 
-Automatización de procesos cartográficos mediante scripts en Python para generación masiva de layouts PDF y optimización de procesos geoespaciales.
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1G_afbKyyldYtng-Vc2-Qsi3yOc-7D7aV" alt="Student Performance Prediction" width="90%">
+</p>
 
-**Tecnologías:** Python · GeoPandas · Automatización · PDF Processing
+Proyecto de **Machine Learning** enfocado en analizar los factores que influyen en el rendimiento académico y desarrollar un modelo predictivo capaz de estimar la puntuación final de los estudiantes.
 
----
+Se realizó un proceso completo de análisis exploratorio de datos (EDA), visualización, preparación de datos y entrenamiento de un modelo de regresión utilizando **Scikit-Learn**.
 
-## 📊 Dashboards y KPIs Empresariales
+### Principales resultados
 
-Diseño y desarrollo de dashboards interactivos para monitoreo de métricas estratégicas, análisis de ventas y generación de reportes ejecutivos.
+- Identificación de las variables con mayor impacto en el rendimiento académico.
+- Construcción de un modelo predictivo mediante Regresión Lineal.
+- Coeficiente **R² = 0.6886**, explicando aproximadamente el **69%** de la variabilidad de los datos.
+- Identificación de oportunidades de mejora mediante modelos más avanzados como Random Forest y XGBoost.
 
-**Tecnologías:** Power BI · SQL · Python · Excel
+### Tecnologías
+
+Python · Pandas · NumPy · Matplotlib · Seaborn · Scikit-Learn · Google Colab
 
 ---
 
