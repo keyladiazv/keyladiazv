@@ -74,7 +74,7 @@ Actualmente me enfoco en transformar datos en información estratégica mediante
 ## BigQuery Release Notes Tracker
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1mC41zqUv4pQ6HswFDhdZV1LWcFuvTLpM" alt="BigQuery Release Notes Tracker" width="90%">
+  <img src="https://drive.google.com/uc?export=view&id=1mC41zqUv4pQ6HswFDhdZV1LWcFuvTLpM" alt="BigQuery Release Notes Tracker" width="50%">
 </p>
 
 Aplicación web desarrollada con **Python Flask** que permite monitorizar, buscar y filtrar las notas oficiales de versión de **Google Cloud BigQuery**, facilitando el seguimiento de nuevas funcionalidades, anuncios, incidencias y cambios importantes.
@@ -94,12 +94,18 @@ La aplicación incorpora un sistema de caché inteligente, actualización manual
 
 Python · Flask · HTML5 · CSS3 · JavaScript ES6 · Requests · XML Parser · APIs
 
+<p align="center">
+  <a href="https://github.com/keyladiazv/keyladiazv-event-talks-app" target="_blank">
+    <img src="https://img.shields.io/badge/Ver%20Repositorio-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio GitHub">
+  </a>
+</p>
+
 ---
 
 ## Student Performance Prediction
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1G_afbKyyldYtng-Vc2-Qsi3yOc-7D7aV" alt="Student Performance Prediction" width="90%">
+  <img src="https://drive.google.com/uc?export=view&id=1G_afbKyyldYtng-Vc2-Qsi3yOc-7D7aV" alt="Student Performance Prediction" width="50%">
 </p>
 
 Proyecto de **Machine Learning** enfocado en analizar los factores que influyen en el rendimiento académico y desarrollar un modelo predictivo capaz de estimar la puntuación final de los estudiantes.
@@ -117,6 +123,11 @@ Se realizó un proceso completo de análisis exploratorio de datos (EDA), visual
 
 Python · Pandas · NumPy · Matplotlib · Seaborn · Scikit-Learn · Google Colab
 
+<p align="center">
+  <a href="https://github.com/keyladiazv/StudentPerformanceFactors" target="_blank">
+    <img src="https://img.shields.io/badge/Ver%20Repositorio-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio GitHub">
+  </a>
+</p>
 ---
 
 # Formación
