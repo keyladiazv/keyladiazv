@@ -74,7 +74,7 @@ Actualmente me enfoco en transformar datos en información estratégica mediante
 ## BigQuery Release Notes Tracker
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1mC41zqUv4pQ6HswFDhdZV1LWcFuvTLpM" alt="BigQuery Release Notes Tracker" width="50%">
+  <img src="https://drive.google.com/uc?export=view&id=1mC41zqUv4pQ6HswFDhdZV1LWcFuvTLpM" alt="BigQuery Release Notes Tracker" width="70%">
 </p>
 
 <p align="center">
@@ -106,7 +106,7 @@ Python · Flask · HTML5 · CSS3 · JavaScript ES6 · Requests · XML Parser · 
 ## Student Performance Prediction
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1G_afbKyyldYtng-Vc2-Qsi3yOc-7D7aV" alt="Student Performance Prediction" width="50%">
+  <img src="https://drive.google.com/uc?export=view&id=1G_afbKyyldYtng-Vc2-Qsi3yOc-7D7aV" alt="Student Performance Prediction" width="70%">
 </p>
 
 <p align="center">
